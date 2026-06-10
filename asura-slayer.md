@@ -42,6 +42,9 @@ Potansiyelini en üst düzeye çıkarmak için tercih edilmesi gereken petler:
 *   **Saldırı Hızı Sınırları (Breaks):** Ekipmanlarınızı ve petlerinizi öyle ayarlayın ki saldırı hızı animasyonunuz bir üst kademeye (speed break) ulaşsın. Slayer ne kadar hızlı vurursa, o kadar çok can çalar ve hayatta kalır.
 *   **Farm Atarken:** Slayer, her ne kadar çok yüksek hasarlar çıkartma ve hayatta kalma becerisi üst düzey olsa da dezavantaj olarak özellikle başlangıç seviyesi oyuncular için uzun bekleme sürelerine sahip. Bu yüzden yeteneklerinizin bekleme süresi etrafında oynamaya elinizi alıştırmanız gerekiyor.
   
+* **Örnek İtem:** 
+  <img width="272" height="589" alt="image" src="https://github.com/user-attachments/assets/1a53ee71-603b-4d6f-a1e4-6f831d11516f" />
+
 ---
 
 🔙 [Irklar ve Sınıflar Menüsüne Dön](siniflar-ve-irklar.md) | 🏠 [Ana Sayfaya Dön](README.md)
