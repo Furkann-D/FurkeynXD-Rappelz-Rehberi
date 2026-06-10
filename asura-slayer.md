@@ -7,9 +7,9 @@ Slayer, Asura ırkının gizlilik, yüksek kaçınma (evasion), muazzam saldır�
 ## 🎒 Ekipman ve Silah Seçimi
 
 Slayer oyuncuları için oyun tarzlarına göre iki ana silah kombinasyonu mevcuttur:
-*   **Çift Kılıç (Dual Swords):** Kesinlikle 2 adet Tek El Kılıç Kullanmalısınız. 1. Silah Slotuna Atağı Yüksek Olan Kılıcı Takınız.
+*   **Silahlar:** Kesinlikle 2 adet Tek El Kılıç Kullanmalısınız. 1. Silah Slotuna Atağı Yüksek Olan Kılıcı Takınız.
 
-*   **Zırh Seçimi:** Savaşçı zırhı giymelisiniz. 160 Seviye Paralel setinizde, 175-195 arası Devildom setinizde, 220+ Twilight setinizde, Amblem ve Madalyanızda "Phase Blades" yeteneği bonusu olmalıdır.
+*   **Zırh Seti:** Savaşçı zırhı giymelisiniz. 160 Seviye Paralel setinizde, 175-195 arası Devildom setinizde, 220+ Twilight setinizde, Amblem ve Madalyanızda "Phase Blades" yeteneği bonusu olmalıdır.
 ---
 
 ## 🔮 Ruh Taşları(Soul Stones) & Stat Dağılımı
