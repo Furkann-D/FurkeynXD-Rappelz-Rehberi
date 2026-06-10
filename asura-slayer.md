@@ -12,7 +12,7 @@ Slayer oyuncuları için oyun tarzlarına göre iki ana silah kombinasyonu mevcu
 **Zırh Seçimi:** Savaşçı zırhı giymelisiniz. 160 Seviye Paralel setinizde, 175-195 arası Devildom setinizde, 220+ Twilight setinizde, Amblem ve Madalyanızda "Phase Blades" yeteneği bonusu olmalıdır.
 ---
 
-## 🔮 Taş Değerleri (Soul Stones) & Stat Dağılımı
+## 🔮 Ruh Taşları(Soul Stones) & Stat Dağılımı
 
 Ekipmanlarınızdaki soketlere yerleştirmeniz gereken en önemli ruh taşları şunlardır:
 1.  **Güç (Str):** Fiziksel atağınızı arttırır.
