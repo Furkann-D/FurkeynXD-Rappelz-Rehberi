@@ -40,8 +40,10 @@ Petleriniz seviye atladıkça görünüşleri değişir ve güçlenirler. Toplam
 
 ## 4. Evcilleştirme Şansınızı Nasıl Arttırırsınız ?
 Evcilleştirme şansınızı arttırmak için belli başlı yöntemler var. İşte o yöntemler :
+| :--- | :--- |
 | **Evcilleştirme Kartı (Creature Taming Card):** | Temel sınıf yetenek kutularından çıkıyor (Bu kutu da skill card box : master dan düşüyor). Kartı yetenek küpü ile sihirlendirerek + sını arttırabilirsiniz. |
 | **Evcilleştirme Yeteneğinin Seviyesini Arttırma:** | Kask Uyanışı, Zırh, Bot Eldiven, Madalya ve Amblemin üstüne getirdiğiniz yeteneklerinizi 1 seviye atlatan bonuslar, sirkten düşen yüzükler, yushiva kemer, ölüm süvarisinin hükümdar kutsaması... |
 | **Evcilleştirme Yüzdesini Arttırma:** | Amblem, 170 Seviyede Giyilen Crystal Sword (ROA' da düşüyor), 190 Seviyede giyilen Luciad Iron Mask (Devil Skeleton Bossundan Düşüyor)... |
+---
 
 🔙 [Ana Sayfaya Dön](README.md)
