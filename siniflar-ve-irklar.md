@@ -5,7 +5,7 @@ Rappelz dünyasındaki ırklara ve ırkların sınıflarına aşağıdan ulaşab
 ---
 
 ## 🟪 ASURA IRKI 
-*   <a href="asura-slayer.md" target="_blank">**Kan Tutkunu (Slayer)**</a> : Asura Savaşçı Sınıfı
+*   <a href="asura-slayer.md" target="_blank">Kan Tutkunu (Slayer)</a> : Asura Savaşçı Sınıfı
 *   <a href="asura-deadeye.md" target="_blank">**Gecenin Gölgesi (Deadeye)**</a> : Asura Avcı Sınıfı
 *   <a href="asura-void-mage.md" target="_blank">**Kaos Efendisi (Void Mage)**</a> : Asura Büyücü Sınıfı
 *   <a href="asura-corruptor.md" target="_blank">**Kara Lanet (Corruptor)**</a> : Asura Büyücü Sınıfı
