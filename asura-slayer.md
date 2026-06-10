@@ -29,8 +29,8 @@ Potansiyelini en üst düzeye çıkarmak için tercih edilmesi gereken petler:
 * Fiziksel atak, HP ve Sıyrılma Slayer İçin Önemlidir.
 *   **Başlangıç:** 2x S0 Kentauros 1x S0 Stone Golem 1x soul of lunacy bosscard veya 1x S1 Bloodthirsty Slaughter 1x S1 minotaurus 1x S1 Undine//1x S3 Stone Golem 1x Grandmaster Hector Courage ( 4 slot kemer için )
 *   **Orta Seviye:** 3x S1 minotaurus 2x S2 unicorn veya 3x S1 minotaurus 1x S5 unicorn 1x S5 nightmare bosscard : Devil Reviac Grandmaster Hector Devil Skeleton ( Devil Skeleton yoksa defans için Barga atak için Mephisto) (8 slot kemer için )
-*   **İleri Seviye:** 3x S1-S2 Death Gladiator 2x S1 Snowman (Şans İçin) veya 3x S1-S2 Death Gladiator 2x S0 Undine
-*   **NOT:** Kemer Kombinasyonları Sabit Değildir. Tamamen Sizin Çarınızı Ne Kadar Tanıdığınıza, Zindan Durumlarına, Bütçenize Bağlı Değişkenlik Gösterebilir.
+*   **İleri Seviye:** 3x S1-S2 Death Gladiator 2x S1 Snowman (Şans İçin) veya 3x S1-S2 Death Gladiator 2x S0 Undine bosscard : Butcher Vulcan Grandmaster Hector Devil Skeleton / Grandmaster Hector Chaotic Phoenix Warrior Devil Skeleton
+*   **NOT:** Kemer Kombinasyonları Sabit Değildir. Tamamen Sizin Çarınızı Ne Kadar Tanıdığınıza, Zindan Performansınıza, Bütçenize Bağlı Değişkenlik Gösterebilir.
 
 ### Yanınızda Çağıracağınız Aktif Petler:
 *   **STR/VIT için:** Bloodthristy Slaughter.
