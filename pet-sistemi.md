@@ -8,7 +8,7 @@ Rappelz'i diğer MMORPG oyunlarından ayıran en büyük özellik son derece gel
 
 Bir yaratığı evcil hayvanınız yapmak için şu adımları izlemelisiniz:
 1.  **Boş Kart Edinme:** Evcilleştirmek istediğiniz yaratığa uygun bir "Boş Pet Kartı" (Empty Card) bulmalısınız.
-2.  **Yetenek Kullanımı:** Karakterinizin yetenek ağacında bulunan **Evcilleştirme (Taming)** yeteneğini hedef seçtiğiniz yaratık üzerinde kullanın.
+2.  **Yetenek Kullanımı:** Karakterinizin yetenek ağacında bulunan **Evcilleştirme (Creature Taming)** yeteneğini hedef seçtiğiniz yaratık üzerinde kullanın.
 3.  **Savaş:** Yeteneği kullandıktan sonra yaratığı yenmeniz gerekir.
 4.  **Sonuç:** Başarılı olursanız kart yeşile döner ve envanterinize gelir. Başarısız olursa kart kırılır.
 
@@ -37,5 +37,11 @@ Petleriniz seviye atladıkça görünüşleri değişir ve güçlenirler. Toplam
 *   **Evrim 3 (E3):** Seviye 115'de evrimleştirilebilir (Usta aşama).
 
 ---
+
+## 4. Evcilleştirme Şansınızı Nasıl Arttırırsınız ?
+Evcilleştirme şansınızı arttırmak için belli başlı yöntemler var. İşte o yöntemler :
+| **Evcilleştirme Kartı (Creature Taming Card):** | Temel sınıf yetenek kutularından çıkıyor (Bu kutu da skill card box : master dan düşüyor). Kartı yetenek küpü ile sihirlendirerek + sını arttırabilirsiniz. |
+| **Evcilleştirme Yeteneğinin Seviyesini Arttırma:** | Kask Uyanışı, Zırh, Bot Eldiven, Madalya ve Amblemin üstüne getirdiğiniz yeteneklerinizi 1 seviye atlatan bonuslar, sirkten düşen yüzükler, yushiva kemer, ölüm süvarisinin hükümdar kutsaması... |
+| **Evcilleştirme Yüzdesini Arttırma:** | Amblem, 170 Seviyede Giyilen Crystal Sword (ROA' da düşüyor), 190 Seviyede giyilen Luciad Iron Mask (Devil Skeleton Bossundan Düşüyor)... |
 
 🔙 [Ana Sayfaya Dön](README.md)
